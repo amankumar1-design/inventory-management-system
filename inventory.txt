@@ -1,0 +1,10 @@
+105|Monitor|10|249.99
+102|Headphones|4|49.99
+101|Adapter|25|19.99
+103|Keyboard|18|29.99
+104|Laptop|7|899.99
+108|SSD Drive|15|89.99
+106|Mouse|35|19.99
+107|Printer|3|159.99
+109|USB Cable|50|9.99
+110|Webcam|6|49.99
